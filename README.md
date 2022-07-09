@@ -1,4 +1,4 @@
-# Data-Analysis brest cancer
+# Data Analysis breast cancer
 Analysis of Bening and Malignant tumors
 
 A benign tumor has distinct, smooth, regular borders. A malignant tumor has irregular borders and grows faster than a benign tumor. A malignant tumor can also spread to other parts of your body. A benign tumor can become quite large, but it will not invade nearby tissue or spread to other parts of your body. A benign tumor can become quite large, but it will not invade nearby tissue or spread to other parts of your body.
